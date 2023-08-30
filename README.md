@@ -1,4 +1,5 @@
 # Kaggle Notebook
-Still in development..
+You can preview a demo at [this link](https://captioning.streamlit.app/).
+> [Demo source](https://github.com/RealityMoez/ICG)
 
-[Notebook](https://www.kaggle.com/code/mohamedmoez2/image-caption-generator-flickr)
+> [Notebook link](https://www.kaggle.com/code/mohamedmoez2/image-caption-generator-flickr)
